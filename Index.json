@@ -1,0 +1,33 @@
+{
+  "pokemon1":{
+    "Name":"Pika-Chu",
+    "HP":45,
+    "Attack":80,
+    "Defense"50,
+    "Special-Atk.": 75,
+    "Special-Def.": 60,
+    "Speed":120
+  },
+   "pokemon2":{
+    "Name":"Abra",
+     "HP":25,
+    "Attack":20,
+    "Defense"15,
+    "Special-Atk.": 105,
+    "Special-Def.": 55,
+    "Speed":90
+  },
+"pokemon3":{
+    "Name":"Abra",
+    "HP":25,
+    "Attack":20,
+    "Defense"15,
+    "Special-Atk.": 105,
+    "Special-Def.": 55,
+    "Speed":90
+},
+
+
+
+
+}
