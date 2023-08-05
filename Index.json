@@ -18,16 +18,116 @@
     "Speed":90
   },
 "pokemon3":{
-    "Name":"Abra",
-    "HP":25,
-    "Attack":20,
-    "Defense"15,
-    "Special-Atk.": 105,
-    "Special-Def.": 55,
+    "Name":"Snorlax",
+    "HP":160,
+    "Attack":110,
+    "Defense"65,
+    "Special-Atk.": 65,
+    "Special-Def.": 110,
+    "Speed":30
+},
+"pokemon4":{
+    "Name":"Snorunt",
+    "HP":50,
+    "Attack":50,
+    "Defense"50,
+    "Special-Atk.": 50,
+    "Special-Def.": 50,
+    "Speed"530
+},
+"pokemon5":{
+    "Name":"Charizard",
+    "HP":78,
+    "Attack":84,
+    "Defense"78,
+    "Special-Atk.": 109,
+    "Special-Def.": 85,
+    "Speed":100
+},
+"pokemon6":{
+    "Name":"Meowth",
+    "HP":40,
+    "Attack":45,
+    "Defense"35,
+    "Special-Atk.": 40,
+    "Special-Def.": 40,
     "Speed":90
 },
+"pokemon7":{
+    "Name":"Wishiwashi",
+    "HP":45,
+    "Attack":20,
+    "Defense"20,
+    "Special-Atk.": 25,
+    "Special-Def.": 25,
+    "Speed":40
+},
+ "pokemon8":{
+    "Name":"Eternatus",
+    "HP":255,
+    "Attack":115,
+    "Defense"250,
+    "Special-Atk.": 125,
+    "Special-Def.": 250,
+    "Speed":130
+}, 
+"pokemon9":{
+    "Name":"Shedinja",
+    "HP":1,
+    "Attack":90,
+    "Defense"45,
+    "Special-Atk.": 30,
+    "Special-Def.": 30,
+    "Speed":40
+},
+"pokemon10":{
+    "Name":"Blissey",
+    "HP":255,
+    "Attack":10,
+    "Defense"10,
+    "Special-Atk.": 75,
+    "Special-Def.": 135,
+    "Speed":55
+},
+  "pokemon11":{
+    "Name":"Mewtwo",
+    "HP":106,
+    "Attack":190,
+    "Defense"100,
+    "Special-Atk.": 154,
+    "Special-Def.": 100,
+    "Speed":130
+},
+"pokemon12":{
+    "Name":"Shuckle",
+    "HP":20,
+    "Attack":10,
+    "Defense"230,
+    "Special-Atk.": 10,
+    "Special-Def.": 130,
+    "Speed":5
+},
+"pokemon13":{
+    "Name":"Absol",
+    "HP":65,
+    "Attack":130,
+    "Defense"60,
+    "Special-Atk.": 75,
+    "Special-Def.": 60,
+    "Speed":75  
+  },
+"pokemon13":{
+    "Name":"Absol",
+    "HP":65,
+    "Attack":130,
+    "Defense"60,
+    "Special-Atk.": 75,
+    "Special-Def.": 60,
+    "Speed":75  
+  },
 
 
 
 
+  
 }
