@@ -27,7 +27,7 @@
     "Special-Atk.": 65,
     "Special-Def.": 110,
     "Speed": 30,
-    "Image": "https://static.wikia.nocookie.net/pokemon/images/f/fb/143Snorlax.png/revision/latest/scale-to-width-down/1000?cb=20200731165355"
+    "Image": "https://metro.co.uk/wp-content/uploads/2016/08/snorlax.jpg?quality=80&strip=all"
   },
   "pokemon4": {
     "Name": "Snorunt",
@@ -37,7 +37,7 @@
     "Special-Atk.": 50,
     "Special-Def.": 50,
     "Speed": 530,
-    "Image": "https://static.wikia.nocookie.net/pokemon/images/6/6b/361Snorunt.png/revision/latest?cb=20140329024154"
+    "Image": "https://tse1.mm.bing.net/th?id=OIP.84vGDxMld716JIl-qB_PCwHaHa&pid=Api&P=0&h=220"
   },
   "pokemon5": {
     "Name": "Charizard",
@@ -47,7 +47,7 @@
     "Special-Atk.": 109,
     "Special-Def.": 85,
     "Speed": 100,
-    "Image": "https://static.wikia.nocookie.net/pokemon/images/7/7e/006Charizard.png/revision/latest/scale-to-width-down/1000?cb=20200731134217"
+    "Image": "https://usercontent1.hubstatic.com/13812156_f520.jpg"
   },
   "pokemon6": {
     "Name": "Meowth",
@@ -57,7 +57,7 @@
     "Special-Atk.": 40,
     "Special-Def.": 40,
     "Speed": 90,
-    "Image": "https://static.wikia.nocookie.net/pokemon/images/d/d6/052Meowth.png/revision/latest?cb=20140328195855"
+    "Image": "https://tse2.mm.bing.net/th?id=OIP.SkJFNDGhhkPPVgYwTPdJ1QHaHg&pid=Api&P=0&h=220"
   },
   "pokemon7": {
     "Name": "Wishiwashi",
@@ -67,7 +67,7 @@
     "Special-Atk.": 25,
     "Special-Def.": 25,
     "Speed": 40,
-    "Image": "https://static.wikia.nocookie.net/pokemon/images/7/75/746Wishiwashi.png/revision/latest?cb=20161221214915"
+    "Image": "https://tse2.mm.bing.net/th?id=OIP.681Nu5k0Oc1dmFu1wz5AGQHaEh&pid=Api&P=0&h=220"
   },
   "pokemon8": {
     "Name": "Eternatus",
@@ -77,7 +77,7 @@
     "Special-Atk.": 125,
     "Special-Def.": 250,
     "Speed": 130,
-    "Image": "https://static.wikia.nocookie.net/pokemon/images/6/62/890Eternatus.png/revision/latest?cb=20200206225940"
+    "Image": "https://tse4.mm.bing.net/th?id=OIP.61PNzyJNi8ncA1LPhOG7LQHaDt&pid=Api&P=0&h=220"
   },
   "pokemon9": {
     "Name": "Shedinja",
@@ -87,7 +87,7 @@
     "Special-Atk.": 30,
     "Special-Def.": 30,
     "Speed": 40,
-    "Image": "https://static.wikia.nocookie.net/pokemon/images/5/59/292Shedinja.png/revision/latest?cb=20140329021900"
+    "Image": "https://tse1.explicit.bing.net/th?id=OIP.GYPJIPWW5ldBjrUX5RmzpAHaHE&pid=Api&P=0&h=220"
   },
   "pokemon10": {
     "Name": "Blissey",
@@ -97,7 +97,7 @@
     "Special-Atk.": 75,
     "Special-Def.": 135,
     "Speed": 55,
-    "Image": "https://static.wikia.nocookie.net/pokemon/images/5/56/242Blissey.png/revision/latest?cb=20140329015702"
+    "Image": "http://vignette3.wikia.nocookie.net/es.pokemon/images/2/2a/Blissey.png/revision/latest?cb=20151017014327"
   },
   "pokemon11": {
     "Name": "Mewtwo",
@@ -107,7 +107,7 @@
     "Special-Atk.": 154,
     "Special-Def.": 100,
     "Speed": 130,
-    "Image": "https://static.wikia.nocookie.net/pokemon/images/7/78/150Mewtwo.png/revision/latest?cb=20140328211204"
+    "Image": "https://vignette.wikia.nocookie.net/death-battle-en-espanol/images/d/d3/Mewtwo.png/revision/latest?cb=20160706193957&path-prefix=es"
   },
   "pokemon12": {
     "Name": "Shuckle",
@@ -117,7 +117,7 @@
     "Special-Atk.": 10,
     "Special-Def.": 130,
     "Speed": 5,
-    "Image": "https://static.wikia.nocookie.net/pokemon/images/c/c7/213Shuckle.png/revision/latest?cb=20140329014705"
+    "Image": "https://img.pokemondb.net/artwork/vector/large/shuckle.png"
   },
   "pokemon13": {
     "Name": "Charmander",
@@ -127,7 +127,7 @@
     "Special-Atk.": 60,
     "Special-Def.": 50,
     "Speed": 65,
-    "Image": "https://static.wikia.nocookie.net/pokemon/images/7/73/004Charmander.png/revision/latest/scale-to-width-down/1000?cb=20200620223744"
+    "Image": "https://tse2.mm.bing.net/th?id=OIP.6ctvsJllEG6fXB2rMbdP5AHaIX&pid=Api&P=0&h=220"
   },
   "pokemon14": {
     "Name": "Absol",
@@ -137,7 +137,7 @@
     "Special-Atk.": 75,
     "Special-Def.": 60,
     "Speed": 75,
-    "Image": "https://static.wikia.nocookie.net/pokemon/images/0/00/359Absol.png/revision/latest?cb=20140329024153"
+    "Image": "https://pm1.narvii.com/5732/ff2747605d907f000affee2c05a819dfed10db4a_hq.jpg"
   },
   "pokemon15": {
     "Name": "Squirtle",
@@ -147,6 +147,6 @@
     "Special-Atk.": 50,
     "Special-Def.": 64,
     "Speed": 42,
-    "Image": "https://static.wikia.nocookie.net/pokemon/images/3/39/007Squirtle.png/revision/latest/scale-to-width-down/1000?cb=20140329015702"
+    "Image": "https://vignette4.wikia.nocookie.net/sonic-pokemon-unipedia/images/4/4d/7-1.png/revision/latest?cb=20131031034850"
   }
 }
